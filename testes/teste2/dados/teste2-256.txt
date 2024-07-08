@@ -1,0 +1,18 @@
+Política de substituição: lru
+Tamanho da linha: 512
+Associatividade: 2
+Quantidade de linhas: 16
+Tempo de acesso em caso de acerto: 10ns
+Tempo de acesso à memória principal: 60ns
+Tamanho da cache (bytes): 8192
+Política de escrita: write-trought
+Endereços de escrita: 6144
+Endereços de leitura: 45056
+Endereços de leitura + escrita: 51200
+Acessos a memoria principal: 17926
+Escritas a memoria principal: 6144
+Leituras a memoria principal: 11782
+Taxa de hit (leitura) : 77.2616% (34811)
+Taxa de hit (escrita) : 74.9837% (4607)
+Taxa de hit (global) : 76.9883% (39418)
+Tempo médio: 23.807ns

@@ -1,0 +1,18 @@
+Política de substituição: aleatorio
+Tamanho da linha: 128
+Associatividade: 4
+Quantidade de linhas: 16
+Tempo de acesso em caso de acerto: 10ns
+Tempo de acesso à memória principal: 60ns
+Tamanho da cache (bytes): 2048
+Política de escrita: write-trought
+Endereços de escrita: 6144
+Endereços de leitura: 45056
+Endereços de leitura + escrita: 51200
+Acessos a memoria principal: 29252
+Escritas a memoria principal: 6144
+Leituras a memoria principal: 23108
+Taxa de hit (leitura) : 53.0451% (23900)
+Taxa de hit (escrita) : 68.2292% (4192)
+Taxa de hit (global) : 54.8672% (28092)
+Tempo médio: 37.0797ns
